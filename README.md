@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">Bacharel em Administração e pós-graduada em Gestão de Projetos, agora estou estudando para ser uma desenvolvedora back-end,  sendo uma entusiasta de tecnologia e inovação.</h4>
+<h4 align="left">Bacharel em Administração e pós-graduada em Gestão de Projetos, agora estou estudando para ser uma desenvolvedora back-end com foco em engenharia de dados,  sendo uma entusiasta de tecnologia e inovação.</h4>
 
 ###
 
-<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPE<br>📚 Estagiária no time de Engineering na br.monks<br>🎯 Estudando Java/Springboot, Node.js e Next.js<br>📖 Meus hobbies favoritos são ler, jogar e assistir séries e animações.</p>
+<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPE<br>📚 Estagiária no time de Engineering na br.monks<br>🎯 Estudando Python/Django, GCP, Pandas e Spark<br>📖 Meus hobbies favoritos são ler, jogar e assistir séries e animações.</p>
 
 ###
 
